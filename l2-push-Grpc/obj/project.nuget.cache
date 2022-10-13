@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "TZuxZZAdcCx+3v5YuO6idL9+/9TXmK5tm6JzivTMCvi02WF3mcpUeN5Vq8ozMlclJ6aTooAagNpYUXq2Ny6iKQ==",
+  "success": true,
+  "projectFilePath": "E:\\Stocker2\\l2-push-C#\\l2-push-Grpc\\l2-push-Grpc.csproj",
+  "expectedPackageFiles": [
+    "E:\\.CACHE\\NuGet\\packages\\google.protobuf\\3.15.6\\google.protobuf.3.15.6.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\grpc.core\\2.36.4\\grpc.core.2.36.4.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\grpc.core.api\\2.36.4\\grpc.core.api.2.36.4.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\grpc.net.client\\2.36.0\\grpc.net.client.2.36.0.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\grpc.net.common\\2.36.0\\grpc.net.common.2.36.0.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\grpc.tools\\2.36.4\\grpc.tools.2.36.4.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

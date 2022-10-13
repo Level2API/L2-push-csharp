@@ -1,0 +1,26 @@
+1 配置服务
+
+1.1 打开目录下的cli\conf文件夹修改proxy.toml文件（可用记事本打开或Notepad++工具打开,根据资料和里面的备注修改）
+
+1.2 打开目录下的cli\conf文件夹修改log.toml文件,配置日志输出
+
+
+2 打开服务
+
+2.1 Windows系统下可双击目录下的cli\txtool.exe
+
+2.2 Linux系统打开命令控制台cd到目录下的cli文件夹打开txtool
+
+
+3 建立NET项目
+
+4.1 将l2-push-Grp项目类库导入并引用到你的项目中
+
+
+4.2 打开Net6GrpcDemo目录下GrpcDemo.cs可简单演示接入过程
+
+
+5 接入之后请密切关注我方发布cli的版本
+
+
+6 RPC服务器IP和端口请联系我方客服获取

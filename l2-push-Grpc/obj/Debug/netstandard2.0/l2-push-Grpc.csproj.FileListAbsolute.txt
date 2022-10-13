@@ -1,0 +1,10 @@
+E:\Stocker2\l2-push-C#\l2-push-Grpc\obj\Debug\netstandard2.0\l2-push-Grpc.csproj.AssemblyReference.cache
+E:\Stocker2\l2-push-C#\l2-push-Grpc\obj\Debug\netstandard2.0\l2-push-Grpc.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stocker2\l2-push-C#\l2-push-Grpc\obj\Debug\netstandard2.0\l2-push-Grpc.AssemblyInfoInputs.cache
+E:\Stocker2\l2-push-C#\l2-push-Grpc\obj\Debug\netstandard2.0\l2-push-Grpc.AssemblyInfo.cs
+E:\Stocker2\l2-push-C#\l2-push-Grpc\obj\Debug\netstandard2.0\l2-push-Grpc.csproj.CoreCompileInputs.cache
+E:\Stocker2\l2-push-C#\l2-push-Grpc\bin\Debug\netstandard2.0\l2-push-Grpc.deps.json
+E:\Stocker2\l2-push-C#\l2-push-Grpc\bin\Debug\netstandard2.0\l2-push-Grpc.dll
+E:\Stocker2\l2-push-C#\l2-push-Grpc\bin\Debug\netstandard2.0\l2-push-Grpc.pdb
+E:\Stocker2\l2-push-C#\l2-push-Grpc\obj\Debug\netstandard2.0\l2-push-Grpc.dll
+E:\Stocker2\l2-push-C#\l2-push-Grpc\obj\Debug\netstandard2.0\l2-push-Grpc.pdb

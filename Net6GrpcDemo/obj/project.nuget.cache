@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "xfnS5KTa2xwsx2I74c4Fuf7/cZeLRcIH8lzVA27QWEzcrVL+7bLb9Zp6n50KVTSL8PeounppfhC3NWX9XuSrsw==",
+  "success": true,
+  "projectFilePath": "E:\\Stocker2\\l2-push-C#\\Net6GrpcDemo\\Net6GrpcDemo.csproj",
+  "expectedPackageFiles": [
+    "E:\\.CACHE\\NuGet\\packages\\google.protobuf\\3.15.6\\google.protobuf.3.15.6.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\grpc.core\\2.36.4\\grpc.core.2.36.4.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\grpc.core.api\\2.36.4\\grpc.core.api.2.36.4.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\grpc.net.client\\2.36.0\\grpc.net.client.2.36.0.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\grpc.net.common\\2.36.0\\grpc.net.common.2.36.0.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "E:\\.CACHE\\NuGet\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

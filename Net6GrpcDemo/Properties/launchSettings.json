@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Net6GrpcDemo": {
+      "commandName": "Project"
+    }
+  }
+}
