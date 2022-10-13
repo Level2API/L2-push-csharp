@@ -1,7 +1,7 @@
-Address = 'localhost:8090'#代理服务器监听地址
-RpcServer = 'localhost:37011'#RPC接口行情服务器地址
-TcpServer = 'localhost:37001'#TCP接口行情服务器地址
-User = '1.1'#用户角色.用户ID
+Address = '127.0.0.1:8090'#代理服务器监听地址
+RpcServer = '120.77.145.83:37011'#RPC接口行情服务器地址
+TcpServer = '120.77.145.83:37001'#TCP接口行情服务器地址
+User = '1.x'#用户角色.用户ID
 Passwd = 'xx'#用户密钥
 TxMsgCacheSize = 1000#行情推送消息缓存数，默认1000
 DataDir = './data'#数据目录，默认./data
