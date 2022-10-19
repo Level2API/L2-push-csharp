@@ -77,6 +77,3 @@
 - 目前用户订阅数只计算已订阅主题的证券代码数
 
 
-
-
-](http://static.tdx.com.cn:7615/site/tdxf10/gg_gdyj/000001.html?version=000001&vertype=1&style=black&gp=000001&ispc=1&9019=3475)
